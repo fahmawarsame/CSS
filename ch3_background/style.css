@@ -1,0 +1,10 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+    /* background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Liido_Beach_Muqdisho_2020.jpg/330px-Liido_Beach_Muqdisho_2020.jpg');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: cover; */
+    background: red url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Liido_Beach_Muqdisho_2020.jpg/330px-Liido_Beach_Muqdisho_2020.jpg') no-repeat right top ;
+    
+}
