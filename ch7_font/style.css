@@ -1,0 +1,19 @@
+h1 {
+  font-family: yuyu, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: italic;
+}
+p {
+  font-family: yuyu, sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+  font-style: italic;
+  font-variant: small-caps;
+}
+#fahma {
+  font-size: 50px;
+}
+.not-nice{
+    color: red
+}
